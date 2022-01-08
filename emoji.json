@@ -452,6 +452,186 @@
 			}
 		]
 	},
+	"WeChat": {
+		"type": "image",
+		"container": [{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/emm.jpg\">",
+				"text": "emm"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/emo.gif\">",
+				"text": "emo"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/爱你.jpg\">",
+				"text": "爱你"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/奥利给.jpg\">",
+				"text": "奥利给"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/吃瓜.gif\">",
+				"text": "吃瓜"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/冲.gif\">",
+				"text": "冲"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/冲冲冲.jpg\">",
+				"text": "冲冲冲"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/抽根烟.jpg\">",
+				"text": "抽根烟"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/揣手手.jpg\">",
+				"text": "揣手手"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/打你.gif\">",
+				"text": "打你"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/废了.jpg\">",
+				"text": "废了"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/给你喝.gif\">",
+				"text": "给你喝"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/公主.jpg\">",
+				"text": "公主"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/害怕.gif\">",
+				"text": "害怕"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/害羞.gif\">",
+				"text": "害羞"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/好开心.jpg\">",
+				"text": "好开心"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/好心情.jpg\">",
+				"text": "好心情"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/呵呵.jpg\">",
+				"text": "呵呵"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/嘿嘿.gif\">",
+				"text": "嘿嘿"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/虎头惊讶.jpg\">",
+				"text": "虎头惊讶"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/虎头郁闷.jpg\">",
+				"text": "虎头郁闷"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/坏笑.jpg\">",
+				"text": "坏笑"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/开心.gif\">",
+				"text": "开心"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/懒.jpg\">",
+				"text": "懒"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/累了.jpg\">",
+				"text": "累了"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/没有快乐.gif\">",
+				"text": "没有快乐"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/摸头.gif\">",
+				"text": "摸头"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/嗯嗯.gif\">",
+				"text": "嗯嗯"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/拍屁股.gif\">",
+				"text": "拍屁股"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/什么.jpg\">",
+				"text": "什么"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/收到.gif\">",
+				"text": "收到"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/忒.jpg\">",
+				"text": "忒"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/吐舌头.jpg\">",
+				"text": "吐舌头"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/颓了.jpg\">",
+				"text": "颓了"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/晚安.gif\">",
+				"text": "晚安"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/委屈.jpg\">",
+				"text": "委屈"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/无语.jpg\">",
+				"text": "无语"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/无语子.jpg\">",
+				"text": "无语子"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/嘻嘻.gif\">",
+				"text": "嘻嘻"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/兴奋.gif\">",
+				"text": "兴奋"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/咬你.gif\">",
+				"text": "咬你"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/真棒.gif\">",
+				"text": "真棒"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/真狗.jpg\">",
+				"text": "真狗"
+			},
+			{
+				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/整一根.gif\">",
+				"text": "整一根"
+			}
+		]
+	},
 	"颜文字": {
 		"type": "emoticon",
 		"container": [{
@@ -678,185 +858,5 @@
 			"icon": "😣",
 			"text": ""
 		}]
-	}
-	"WeChat": {
-		"type": "image",
-		"container": [{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/emm.jpg\">",
-				"text": "emm"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/emo.gif\">",
-				"text": "emo"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/爱你.jpg\">",
-				"text": "爱你"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/奥利给.jpg\">",
-				"text": "奥利给"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/吃瓜.gif\">",
-				"text": "吃瓜"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/冲.gif\">",
-				"text": "冲"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/冲冲冲.jpg\">",
-				"text": "冲冲冲"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/抽根烟.jpg\">",
-				"text": "抽根烟"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/揣手手.jpg\">",
-				"text": "揣手手"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/打你.gif\">",
-				"text": "打你"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/废了.jpg\">",
-				"text": "废了"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/给你喝.gif\">",
-				"text": "给你喝"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/公主.jpg\">",
-				"text": "公主"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/害怕.gif\">",
-				"text": "害怕"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/害羞.gif\">",
-				"text": "害羞"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/好开心.jpg\">",
-				"text": "好开心"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/好心情.jpg\">",
-				"text": "好心情"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/呵呵.jpg\">",
-				"text": "呵呵"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/嘿嘿.gif\">",
-				"text": "嘿嘿"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/虎头惊讶.jpg\">",
-				"text": "虎头惊讶"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/虎头郁闷.jpg\">",
-				"text": "虎头郁闷"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/坏笑.jpg\">",
-				"text": "坏笑"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/开心.gif\">",
-				"text": "开心"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/懒.jpg\">",
-				"text": "懒"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/累了.jpg\">",
-				"text": "累了"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/没有快乐.gif\">",
-				"text": "没有快乐"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/摸头.gif\">",
-				"text": "摸头"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/嗯嗯.gif\">",
-				"text": "嗯嗯"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/拍屁股.gif\">",
-				"text": "拍屁股"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/什么.jpg\">",
-				"text": "什么"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/收到.gif\">",
-				"text": "收到"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/忒.jpg\">",
-				"text": "忒"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/吐舌头.jpg\">",
-				"text": "吐舌头"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/颓了.jpg\">",
-				"text": "颓了"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/晚安.gif\">",
-				"text": "晚安"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/委屈.jpg\">",
-				"text": "委屈"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/无语.jpg\">",
-				"text": "无语"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/无语子.jpg\">",
-				"text": "无语子"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/嘻嘻.gif\">",
-				"text": "嘻嘻"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/兴奋.gif\">",
-				"text": "兴奋"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/咬你.gif\">",
-				"text": "咬你"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/真棒.gif\">",
-				"text": "真棒"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/真狗.jpg\">",
-				"text": "真狗"
-			},
-			{
-				"icon": "<img src=\"https://unpkg.zhimg.com/twikoo-emoji/wechat/整一根.gif\">",
-				"text": "整一根"
-			}
-		]
 	}
 }
