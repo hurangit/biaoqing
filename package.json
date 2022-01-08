@@ -1,0 +1,19 @@
+{
+  "name": "twikoo-emoji",
+  "version": "1.0.0",
+  "description": "存放twikoo表情包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurangit/biaoqing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hurangit/biaoqing/issues"
+  },
+  "homepage": "https://github.com/hurangit/biaoqing#readme"
+}
