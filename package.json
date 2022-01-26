@@ -1,6 +1,6 @@
 {
   "name": "twikoo-emoji",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "存放twikoo表情包",
   "main": "index.js",
   "scripts": {
